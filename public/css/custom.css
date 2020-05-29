@@ -1,0 +1,14 @@
+.true {
+    color: #4041ff;
+    font-weight: bold;
+}
+.false {
+    color: #ababab;
+    font-weight: bold;
+}
+
+body
+{
+    font-family: 'Lato', sans-serif;
+    margin: 80px !important
+}
